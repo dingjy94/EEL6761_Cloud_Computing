@@ -4,6 +4,10 @@ PageRank.scala: Pure spark pagerank program
 
 getUniversity.scala: Get the top 100 pagerank weight universities from pagerank output
 
+GraphxPageRankPre.scala: Pre processing for GraphX pageranl
+
+GraphXPRMain.scala: GraphX pagerank program
+
 # Output
 
 pureSparkTop100: iteration time of pagerank is 10
