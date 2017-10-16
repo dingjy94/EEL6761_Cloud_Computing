@@ -13,5 +13,5 @@ Top100University: top 100 univervisity, iteration time also 10
 # Run
 ```
 spark/bin/spark-submit --class
-GraphxPageRank.GraphPageRank --driver-memory 3g GraphxPageRank.jar /input
+MainClass --driver-memory 3g(must larger than 2g) jar args
 ```
