@@ -12,5 +12,6 @@ Top100University: top 100 univervisity, iteration time also 10
 
 # Run
 ```
-jfjld
+spark/bin/spark-submit --class
+GraphxPageRank.GraphPageRank --driver-memory 3g GraphxPageRank.jar /input
 ```
